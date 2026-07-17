@@ -1,6 +1,6 @@
 Hi, I’m Xanny 👋
-- Interested in **Smart cities, urban planning, reinforcement learning, deep learning**
-- Open to research collaborations in optimization and sustainable urban systems
+- Interested in **Smart cities, urban planning, reinforcement learning, deep learning.**
+- Open to research collaborations in topics above.
 
 ## 🎓 Education
 ### University of Economics Hociminh City, Vietnam
