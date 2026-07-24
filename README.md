@@ -16,7 +16,7 @@ A Deep Q-Network framework for optimizing electric vehicle charging under stocha
 - **Application:** Smart EV charging scheduling
 - **Objective:** Minimize charging costs for EV individual users while satisfying future driving demand
 
-### EV Charging Demand Forecasting
+### [EV Charging Demand Forecasting](https://github.com/thaothankfully/EV-charging-demand-forecasting)
 
 A comparative study of statistical, temporal, spatial, and spatio-temporal models for forecasting hourly EV charging-station occupancy.
 
