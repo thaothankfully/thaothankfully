@@ -6,3 +6,13 @@ Hi, I’m Xanny 👋
 ### University of Economics Hociminh City, Vietnam
 Master of Mathematical Economics  (October 2025 – Present)
 
+## 🔬 Research
+
+### [EV Charging Scheduling with Deep Q-Network](https://github.com/thaothankfully/EV-Charging-Scheduling-DQN)
+
+A Deep Q-Network framework for optimizing electric vehicle charging under stochastic electricity prices and driving demand.
+
+- **Method:** Deep Reinforcement Learning, DQN
+- **Application:** Smart EV charging scheduling
+- **Objective:** Minimize charging costs while satisfying future driving demand
+- **Repository:** [View project](https://github.com/thaothankfully/EV-Charging-Scheduling-DQN)
