@@ -15,3 +15,11 @@ A Deep Q-Network framework for optimizing electric vehicle charging under stocha
 - **Method:** Deep Reinforcement Learning, DQN
 - **Application:** Smart EV charging scheduling
 - **Objective:** Minimize charging costs for EV individual users while satisfying future driving demand
+
+### EV Charging Demand Forecasting
+
+A comparative study of statistical, temporal, spatial, and spatio-temporal models for forecasting hourly EV charging-station occupancy.
+
+- **Method:** ARIMA, LSTM, GCN, and GCN-LSTM
+- **Application:** Urban EV charging demand forecasting and charging infrastructure planning
+- **Objective:** Compare different forecasting approaches and evaluate the contribution of temporal and spatial dependencie
