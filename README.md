@@ -1,4 +1,4 @@
-Hi, I’m Xanny 👋
+Hi, I’m Roxanne 👋
 - Interested in **Smart cities, urban planning, reinforcement learning, deep learning.**
 - Open to research collaborations in topics above.
 
